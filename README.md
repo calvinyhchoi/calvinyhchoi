@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 🙇 안녕 (Means hello but you can say onion and it'll sound the same) 🙇
 ### My name is Calvin and I'm...
 
