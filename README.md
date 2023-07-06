@@ -5,4 +5,4 @@
 
 * A Finance & Data Science student at the University of British Columbia 🎓 <br>
 * Currently working as a Data and Finance Analysis at a Public Health Authority in Canada 🛠 <br>
-* Ascendent Valorant Player (Smoke Supremacy) 🔫
+* Ascendant Valorant Player (Smoke Supremacy) 🔫
