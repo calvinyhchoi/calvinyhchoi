@@ -1,4 +1,4 @@
-## 🙇 안녕 (Means hello but you can say onion and it'll sound the same) 🙇
+## 🙇 Hello 🙇
 ### My name is Calvin and I'm...
 
 * A Finance & Data Science student at the University of British Columbia 🎓 <br>
